@@ -32,7 +32,7 @@
 				<button class="btn btn-outline-primary" type="submit"
 					value="linkedinButton" name="buttonLinked">LinkedIn</button>
 				<button class="btn btn-outline-success" type="submit"
-					value="ldapButton" name="buttonAnother">Another Login</button>
+					value="anotherButton" name="buttonAnother">Another Login</button>
 			</div>
 		</form>
 	</div>

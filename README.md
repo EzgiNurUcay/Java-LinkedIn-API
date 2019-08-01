@@ -10,7 +10,7 @@ Your directory should be like this.
 ![directory](https://user-images.githubusercontent.com/25286372/62293682-cc18eb00-b471-11e9-9e87-389026cf5896.PNG)
 
 # STEP-2 
-Create classes and write codes. Don't forget to json library. You have to add to WebContent-> WEB_INF -> lib 
+Create classes and write codes. Don't forget json library. You have to add to WebContent-> WEB_INF -> lib 
 
 After all steps you can run your server. It will show user's information in terminal. To see in browser you need to create a User Model. You should store data in user then return object. You should create session in servlet and can call session object in jsp.
 
